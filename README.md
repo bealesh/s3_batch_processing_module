@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Usage of TF S3 batch processing module
 
 ``` 
@@ -12,3 +13,7 @@ module "s3_batch_processing" {
   batch_role_name = "my-batch-role"
 }
 ```
+=======
+# s3_batch_processing_module
+Terraform module for S3 batch processing
+>>>>>>> 2042830 (Initial commit)
